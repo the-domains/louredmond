@@ -3,16 +3,30 @@
     <channel>
         <title><![CDATA[Inspire Transformation]]></title>
         <description><![CDATA[Inspire Transformation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://louredmond.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 18:34:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 14 Oct 2015 18:58:10 GMT</lastBuildDate>
+        <atom:link href="http://louredmond.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45351cb2-2458-496a-ba7a-f914622aa3a8.jpg">]]></description>
+            <link>http://louredmond.com/2d9c8f9a-3e16-441b-8f31-4fd3ae10e915/index.html</link>
+            <guid isPermaLink="false">2d9c8f9a-3e16-441b-8f31-4fd3ae10e915</guid>
+            <pubDate>Wed, 14 Oct 2015 18:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Push Your Comfort Zone"]]></title>
+            <description><![CDATA[<article><h1>"Push Your Comfort Zone"</h1><p>My path to self-discovery all started 1 year ago when I met a group of people who were doing things with their lives that I didn't know were possible. Ever since that day, I've made a commitment to push my comfort zone and live life on the edge.</p><img src="https://i.ytimg.com/vi/MWGGnAcd-P0/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MWGGnAcd-P0</link>
+            <guid isPermaLink="false">d825aa80-9dfe-4b9f-9954-f212f97c9a4c</guid>
+            <pubDate>Wed, 14 Oct 2015 18:56:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Formula - notes to a writer.]]></title>
             <description><![CDATA[<article><h1>The Formula - notes to a writer.</h1><p>For you, the one with the dream to be heard. It's a cluttered world with endless information. How do you break through? It's not hard. You don't need experience. What you need is desire. When a desire burns so strong, it can't help but come out.</p><img src="https://cdn-images-1.medium.com/max/800/1*nagjfDYTQ611piMKw-RnHw.jpeg"></article>]]></description>
-            <link>https://medium.com/@streamsofconciousness/the-formula-notes-to-a-writer-38bf1e22c513</link>
+            <link>http://louredmond.com/the-formula-notes-to-a-writer/index.html</link>
             <guid isPermaLink="false">9987c092-efe8-4091-ad9d-af452509fef3</guid>
-            <pubDate>Wed, 14 Oct 2015 18:34:12 GMT</pubDate>
+            <pubDate>Wed, 14 Oct 2015 18:37:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
