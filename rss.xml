@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inspire Transformation]]></title>
+        <description><![CDATA[Inspire Transformation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 18:34:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Formula - notes to a writer.]]></title>
+            <description><![CDATA[<article><h1>The Formula - notes to a writer.</h1><p>For you, the one with the dream to be heard. It's a cluttered world with endless information. How do you break through? It's not hard. You don't need experience. What you need is desire. When a desire burns so strong, it can't help but come out.</p><img src="https://cdn-images-1.medium.com/max/800/1*nagjfDYTQ611piMKw-RnHw.jpeg"></article>]]></description>
+            <link>https://medium.com/@streamsofconciousness/the-formula-notes-to-a-writer-38bf1e22c513</link>
+            <guid isPermaLink="false">9987c092-efe8-4091-ad9d-af452509fef3</guid>
+            <pubDate>Wed, 14 Oct 2015 18:34:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
