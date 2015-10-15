@@ -23,9 +23,9 @@ color:
     - '#191f05'
     - '#aa8f5f'
   brandStrength: 0.875
-  lightness: 0.75
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose:
   - name: engagement
     item: null
