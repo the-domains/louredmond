@@ -4,7 +4,7 @@
         <description><![CDATA[Inspire Transformation]]></description>
         <link>http://louredmond.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 23:56:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 23:57:11 GMT</lastBuildDate>
         <atom:link href="http://louredmond.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://louredmond.com/2d9c8f9a-3e16-441b-8f31-4fd3ae10e915/index.html</link>
             <guid isPermaLink="false">2d9c8f9a-3e16-441b-8f31-4fd3ae10e915</guid>
             <pubDate>Wed, 14 Oct 2015 18:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<h1>About Me</h1>]]></description>
+            <link>http://louredmond.com/about-me/index.html</link>
+            <guid isPermaLink="false">4ee76c8c-30a6-4040-9745-4b699d7d3183</guid>
+            <pubDate>Fri, 23 Oct 2015 23:57:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
