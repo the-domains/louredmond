@@ -43,9 +43,9 @@ description: 'Last weekend I spoke to students at San Diego State University abo
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/rouledmond/status/645991420344578049'
-datePublished: '2015-10-27T20:43:02.701Z'
+datePublished: '2015-10-27T20:43:35.035Z'
 title: ''
-dateModified: '2015-10-27T20:39:33.866Z'
+dateModified: '2015-10-27T20:43:02.701Z'
 sourcePath: _posts/2015-10-27-last-weekend-i-spoke-to-students-at-san-diego-state-universi.md
 published: true
 inFeed: true
