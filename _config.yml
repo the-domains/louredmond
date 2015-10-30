@@ -16,9 +16,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5
+  saturation: 0.7446808
+  lightness: 0.6744681
   brandStrength: 0.8125
-  lightness: 0.75
   brandColors:
     - '#E7D9AB'
     - '#887765'
@@ -33,8 +33,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: louredmond
 favicon: null
+name: louredmond
 opengraph:
   image: null
   type: null
