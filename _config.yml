@@ -1,8 +1,8 @@
+name: louredmond
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.43045
 title: Inspire Transformation
-purpose:
-  - name: engagement
-    url: null
-    item: null
 collections:
   - index:
       path: /
@@ -15,29 +15,29 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7446808
-  lightness: 0.6744681
-  brandStrength: 0.8125
   brandColors:
     - '#E7D9AB'
     - '#887765'
     - '#5D5353'
     - '#302838'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: louredmond
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.43045
-layout_spectrum: 0.2744681
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose:
+  - name: engagement
+    url: null
+    item: null
